@@ -1,0 +1,4 @@
+pymupdf
+pillow
+playwright
+numpy
